@@ -7,5 +7,9 @@ public class Ios implements OperatingSystem{
 		// TODO Auto-generated method stub
 		System.out.println("Most Secure Os");
 	}
+	
+	public void test(){
+		System.out.println("This is test method of IOS class");
+	}
 
 }

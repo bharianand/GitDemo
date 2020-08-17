@@ -8,4 +8,7 @@ public class Windows implements OperatingSystem{
 		System.out.println("About to Die");
 	}
 
+	public void test(){
+		System.out.println("This is test method of Windows class");
+	}
 }
