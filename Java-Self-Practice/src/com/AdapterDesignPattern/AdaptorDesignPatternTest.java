@@ -13,5 +13,7 @@ public class AdaptorDesignPatternTest {
 		WebDriver wad = new WebAdapterDriver(iea);
 		wad.getElement();
 		wad.selectElement();
+		
+		System.out.println("Test data");
 	}
 }
