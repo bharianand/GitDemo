@@ -10,5 +10,8 @@ public class Android implements OperatingSystem{
 	public void test(){
 		System.out.println("This is test method of Android class");
 	}
-
+	
+	public void test1(){
+		System.out.println("This is test method of Android class");
+	}
 }

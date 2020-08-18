@@ -12,4 +12,7 @@ public class Ios implements OperatingSystem{
 		System.out.println("This is test method of IOS class");
 	}
 
+	public void test1(){
+		System.out.println("This is test method of IOS class");
+	}
 }
